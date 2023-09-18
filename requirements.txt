@@ -15,4 +15,4 @@ scipy==1.11.2
 smart-open==6.4.0
 tqdm==4.66.1
 Werkzeug==2.3.7
-gunicorn==20.0.1
+gunicorn==20.1.0
